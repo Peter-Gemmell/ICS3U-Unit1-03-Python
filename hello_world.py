@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Created by Peter Gemmell
-# Created on Febuary 2022
+# Created on February 2022
 # This line is "Hello, World!" program, with proper style
 
 
